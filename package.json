@@ -1,0 +1,1 @@
+{ "name":"substrate-videogame-ml","version":"0.0.1","description":"ML for video games using substrate (opposites, NPCs, procedural gen)","main":"src/index.ts","type":"module","scripts":{"test":"node --test src/tests/*.test.ts"},"keywords":["substrate","videogame","ml","opposites"],"license":"MIT" }
